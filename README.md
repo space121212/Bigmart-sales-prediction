@@ -9,14 +9,7 @@ Using this model, BigMart will try to understand the properties of products and 
 
 
 
-**Download link:** https://www.kaggle.com/devashish0507/big-mart-sales-prediction
 
-# Libraries
-
-<li>pandas
-<li>matplotlib
-<li>seaborn
-<li>scikit-learn
 
 
   
